@@ -10,6 +10,7 @@ import './app.css';
 
 export default class App extends Component {
 
+  // id for list-item
   maxId = 100;
 
   state = {
@@ -64,7 +65,10 @@ export default class App extends Component {
   toggleProperty(arr, id, propName) {
     const idx = arr.findIndex((el) => el.id === id);
 
+    // get list-item by id
     const oldItem = arr[idx];
+
+    // create the same item with opposite property
     const newItem = {...oldItem,
       [propName]: !oldItem[propName]};
 
