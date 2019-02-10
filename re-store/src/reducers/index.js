@@ -1,17 +1,6 @@
 
 const initialState = {
-  books: [
-    {
-      id: 1,
-      title: 'Test1',
-      author: 'AuthorTest1'
-    },
-    {
-      id: 2,
-      title: 'Test2',
-      author: 'AuthorTest2'
-    }
-  ]
+  books: []
 };
 
 const reducer = (state = initialState, action) => {
