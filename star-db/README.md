@@ -1,10 +1,10 @@
 # Star DB App
 
-![](pictures/victoria.jpg)
+![](../pictures/victoria.jpg)
 
 ## A simple database for Star Wars
 
-![](pictures/stardb.png)
+![](../pictures/stardb.png)
 
 ## Deploy:
 
