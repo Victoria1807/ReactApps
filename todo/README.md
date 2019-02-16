@@ -1,10 +1,10 @@
 # To-Do App
 
-![](pictures/victoria.jpg)
+![](../pictures/victoria.jpg)
 
 ## A simple to-do app
 
-![](pictures/todo.png)
+![](../pictures/todo.png)
 
 ## Deploy:
 
