@@ -2,7 +2,7 @@
 
 ![](../pictures/victoria.jpg)
 
-## A simple database for Star Wars
+## A simple database of Star Wars
 
 ![](../pictures/stardb.png)
 
