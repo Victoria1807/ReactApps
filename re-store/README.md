@@ -1,10 +1,10 @@
 # ReStore App
 
-![](pictures/victoria.jpg)
+![](../pictures/victoria.jpg)
 
 ## A simple store of books
 
-![](pictures/restore.png)
+![](../pictures/restore.png)
 
 ## Deploy:
 
