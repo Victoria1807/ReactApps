@@ -1,13 +1,13 @@
 # The repository of simple React-apps
 
-#[To-Do App](todo/)
+# [To-Do App](todo/)
 
 ![](pictures/todo.png)
 
-#[StarDB](star-db/)
+# [StarDB](star-db/)
 
 ![](pictures/stardb.png)
 
-#[StarDB](re-store/)
+# [StarDB](re-store/)
 
 ![](pictures/restore.png)
