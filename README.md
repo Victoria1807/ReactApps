@@ -8,6 +8,6 @@
 
 ![](pictures/stardb.png)
 
-# [StarDB](re-store/)
+# [ReStore](re-store/)
 
 ![](pictures/restore.png)
